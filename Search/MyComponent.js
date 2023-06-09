@@ -1,4 +1,4 @@
-//작동하지 않아 비활성화
+//일부만 작동하여 비활성화
 // import React, { useEffect } from 'react';
 // import { getFirebaseUID } from '../../firebase'; // Firebase에서 제공하는 함수를 import
 // import { firebaseFirestore } from '../../firebase'; // Firebase에서 제공하는 Firestore 객체를 import
