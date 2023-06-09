@@ -1,4 +1,4 @@
-//작동하지 않아 비활성화
+//일부만 작동하여 비활성화
 // import React, { useEffect, useState } from 'react';
 // import { View, Text } from 'react-native';
 // import { handleSearchByUID } from './Search';
