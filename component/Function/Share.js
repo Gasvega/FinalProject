@@ -1,3 +1,4 @@
+//share기능은 동작하지 않음
 import React, { useState } from "react";
 import { View, Button, Modal, Text, TouchableOpacity } from "react-native";
 import Icon from "react-native-vector-icons/FontAwesome"; // 라이브러리에서 원하는 아이콘 세트를 가져옵니다.
@@ -37,7 +38,7 @@ export default function Share() {
             <TouchableOpacity style={{ alignSelf: "flex-end" }} onPress={closePopup}>
               <Text style={{ color: "blue" }}>닫기</Text>
             </TouchableOpacity>
-            <Icon name="rocket" size={30} color="#900" /> {/* 아이콘 사용 예시 */}
+            <Icon name="rocket" size={30} color="#900" />
           </View>
         </View>
       )}
